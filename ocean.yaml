@@ -1,0 +1,10 @@
+path: ./seadronessee
+train: images/train
+val: images/val
+
+names:
+  0: swimmer
+  1: floater
+  2: life_jacket
+  3: life_raft
+  4: boat
